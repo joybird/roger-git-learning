@@ -7,6 +7,7 @@ def main():
     logo()
     style_one()
     script.run_script()
+    print('主程序执行完毕！')
 
 
 if __name__ == "__main__":
