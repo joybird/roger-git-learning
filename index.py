@@ -8,7 +8,7 @@ def main():
     print('第一次修改')
     style_one()
     script.run_script()
-    print('主程序执行完毕！')
+    print('-----主程序执行完毕！-----')
 
 
 if __name__ == "__main__":
